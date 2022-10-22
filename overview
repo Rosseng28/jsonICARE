@@ -1,10 +1,9 @@
 {
   "Overview" : [
 	{
-  "CoronavirusDisease": 
-	  "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.",
-
-"source": "https://www.who.int/health-topics/coronavirus#tab=tab_1"
+	"CoronavirusDisease": "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.",
+	
+	"source": "https://www.who.int/health-topics/coronavirus#tab=tab_1"
 }
 ]
 }
