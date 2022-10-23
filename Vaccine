@@ -1,0 +1,10 @@
+{
+"Vaccine":[
+  {
+  "Covid19Vaccines":"Pfizer-BioNtech\nOxford-AstraZeneca\nCoronaVac(Sinovac)\nGamaleya Sputnic V\nJohnson and Jhonson's Janssen\nBharat Bio Tech\nModerna\nSinopharm",
+  "VaccineInfo":"These vaccines are given as a shot in the muscle of the upper arm or in the thigh of a young child. COVID-19 vaccine ingredients are considered safe for most people. Nearly all of the ingredients in COVID-19 vaccines are ingredients found in many foods—fats, sugar, and salts. None of the COVID-19 vaccines affect or interact with our DNA and the following are not included in the vaccines:\nNo preservatives such as thimerosal or mercury or any other preservatives.\nNo antibiotics such as sulfonamide or any other antibiotics.\nNo medicines or therapeutics such as ivermectin or any other medications.\nNo tissues such as aborted fetal cells, gelatin, or any materials from any animal.\nNo food proteins such as eggs or egg products, gluten, peanuts, tree nuts, nut products, or any nut byproducts. (COVID-19 vaccines are not manufactured in facilities that produce food products).\nNo metals such as iron, nickel, cobalt, titanium, or rare earth alloys. They also do not have any manufactured products like microelectronics, electrodes, carbon nanotubes or other nanostructures, or nanowire semiconductors.\nNo latex. The vial stoppers used to hold the vaccine also do not contain latex.\n\nAfter the body produces an immune response, it discards all of the vaccine ingredients, just as it would discard any substance that cells no longer need. This process is a part of normal body functioning.",
+  "Dosage":"COVID-19 vaccine dose amounts can vary depending on the type of vaccine being given, or due to the recipient’s age.",
+  "LearnMore": "https://doh.gov.ph/vaccines/know-your-vaccines\nhttps://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/overview-COVID-19-vaccines.html"
+  }
+  ]
+}
