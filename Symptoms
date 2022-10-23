@@ -1,10 +1,10 @@
 {
 "Symptom":[
   {
-  "Most common symptoms":"\nFever\nCough\nTiredness\nLoss of taste or smell",
-  "Less common symptoms":"\nSore throat\nHeadache\nAches and pains\nDiarrhoea\nRash on skin\nDiscolouration of fingers or toes\nRed or irritated eyes",
-  "Serious symptoms":"\nDifficulty breathing\nShortness of breath\nLoss of speech or mobility\nChest pain\n\nSeek immediate medical attention if you have serious symptoms. Always call before visiting your doctor or health facility. People with mild symptoms who are otherwise healthy should manage their symptoms at home. On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.",
-  "Learn more": "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html"
+  "MostCommonSymptoms":"\nFever\nCough\nTiredness\nLoss of taste or smell",
+  "LessCommonSymptoms":"\nSore throat\nHeadache\nAches and pains\nDiarrhoea\nRash on skin\nDiscolouration of fingers or toes\nRed or irritated eyes",
+  "SeriousSymptoms":"\nDifficulty breathing\nShortness of breath\nLoss of speech or mobility\nChest pain\n\nSeek immediate medical attention if you have serious symptoms. Always call before visiting your doctor or health facility. People with mild symptoms who are otherwise healthy should manage their symptoms at home. On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.",
+  "LearnMore": "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html"
   }
   ]
 }
